@@ -9,7 +9,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN SISTEMAS
+🎓 INGENIERO EN SISTEMAS 
 
 🎓 A los 17 años, encontré mi pasión por la programación y desde entonces he estado explorando este fascinante mundo. Con un año de experiencia en ciencia de datos, me considero una persona sociable y entusiasta, siempre dispuesta a compartir mis conocimientos y experiencias.
 
@@ -24,7 +24,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=dart,windows,visualstudio,py,pycharm,firebase,gtk,git,github,docker,postman,vscode,bash,ps&perline=12" />
   </a>
 </p>
 <br>
