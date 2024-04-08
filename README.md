@@ -1,15 +1,15 @@
 <h1 align="center">Hola 👋  soy Jose luis / Carvajal ✨ </h1> 
 
 <p align="center">
-  <a href="www.linkedin.com/in/jose-luis-carvajal-805035241" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-  <a href = "joseluiscarvajal19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  <a href="www.linkedin.com/in/jose-luis-carvajal-805035241" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="carvaj10"/></a>
+  <a href = "joseluiscarvajal19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@carvaj10"  /></a>
 </p>
 <br>
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎓 INGENIERO EN SISTEMAS
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
@@ -17,7 +17,7 @@
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **joseluiscarvajal19@gmail.com**
 <!--Intro end-->
   </p>
 <br>
