@@ -9,7 +9,7 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN SISTEMAS 
+🎓 TECNICO Y ESTUDIANTE DE INGENIERIA EN SISTEMAS 
 
 🎓 A los 17 años, encontré mi pasión por la programación y desde entonces he estado explorando este fascinante mundo. Con un año de experiencia en ciencia de datos, me considero una persona sociable y entusiasta, siempre dispuesta a compartir mis conocimientos y experiencias.
 
