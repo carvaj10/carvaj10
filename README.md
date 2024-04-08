@@ -11,13 +11,11 @@
 <p align="left">
 🎓 INGENIERO EN SISTEMAS
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎓 A los 17 años, encontré mi pasión por la programación y desde entonces he estado explorando este fascinante mundo. Con un año de experiencia en ciencia de datos, me considero una persona sociable y entusiasta, siempre dispuesta a compartir mis conocimientos y experiencias.
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+🎥 Como desarrollador y programador freelance, me dedico a crear pequeños proyectos de web scraping que comparto a través de mis repositorios. Mi objetivo es seguir aprendiendo y creciendo en este emocionante campo.
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **joseluiscarvajal19@gmail.com**
+📫 No dudes en contactarme en **joseluiscarvajal19@gmail.com** para cualquier consulta o colaboració
 <!--Intro end-->
   </p>
 <br>
