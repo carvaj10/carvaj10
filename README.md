@@ -37,11 +37,10 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-        <img align="center" width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FMetacritic%2F&psig=AOvVaw2QS5AR73JPsdi8qIaOUExp&ust=1725025276183000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiZiomqmogDFQAAAAAdAAAAABAE"   alt="VIDEO" />
-      </p>
+        <img align="center" width=100% height="180px" src="https://i0.wp.com/www.gammaminus.com/wp-content/uploads/2023/11/metacriticthumb-1.jpg?fit=500%2C500&ssl=1.jpg"   alt="VIDEO" />
+      </p> 
     <p align="center">
-        <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
-      <a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
+      <a href="https://github.com/carvaj10/curso-react-native/tree/master" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
 <td width="25%" align="center">
