@@ -37,8 +37,7 @@
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://youtu.be/rISmdhlhOPM" title="Go to Source">
-        <img align="center" width=100% src="https://github.com/carvaj10/curso-react-native/tree/master/assets/1.jpg"   alt="VIDEO" /></a>
+        <img align="center" width=100% src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FMetacritic%2F&psig=AOvVaw2QS5AR73JPsdi8qIaOUExp&ust=1725025276183000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiZiomqmogDFQAAAAAdAAAAABAE"   alt="VIDEO" />
       </p>
     <p align="center">
         <a href="https://youtu.be/rISmdhlhOPM" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
