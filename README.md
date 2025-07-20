@@ -7,7 +7,7 @@
 Especializado en análisis de datos y tecnologías geo espaciales, con enfoque en optimización de rutas y visualización de información en mapas. Me apasiona transformar datos complejos en soluciones prácticas mediante Python y SQL, creando interfaces geográficas intuitivas que generan insights valiosos y mejoran la toma de decisiones basadas en localización.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jose-luis-carvajal-805035241" target="blank">
+  <a href="https://www.linkedin.com/in/krba-jose/" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/carvaj10" target="blank">
@@ -162,7 +162,7 @@ Durante mi formación, desarrollé un sistema para mejorar rutas logísticas en 
 ¿Interesado en colaborar o conocer más sobre mi trabajo? ¡No dudes en contactarme!
 
 📧 **Email:** joseluiscarvajal19@gmail.com
-💼 **LinkedIn:** [jose-luis-carvajal-805035241](https://www.linkedin.com/in/jose-luis-carvajal-805035241)
+💼 **LinkedIn:** [jose-luis-carvajal-805035241](https://www.linkedin.com/in/krba-jose/)
 🐙 **GitHub:** [carvaj10](https://github.com/carvaj10)
 
 ---
